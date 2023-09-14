@@ -1,5 +1,5 @@
 # Physics Models
-Physics models, from PHYS 2211 and PHYS 2212 labs, using Glowscript.org VPython.
+Ethan Nguyen-Tu's physics models, from PHYS 2211 and PHYS 2212 labs, using Glowscript.org VPython.
 
 ## PHYS 2211: Introduction to Physics I
 [Glowscript.org Folder](https://www.glowscript.org/#/user/ENT/folder/PHYS2211/)
@@ -26,6 +26,8 @@ Physics models, from PHYS 2211 and PHYS 2212 labs, using Glowscript.org VPython.
    - Lab Name: Lab 5: Slinky Drop
    - Lab Video: [Youtube](https://www.youtube.com/watch?v=fEeZUuoh_Hs)
 
+Copyright (c) 2023 Ethan Nguyen-Tu
+
 ## PHYS 2212: Introduction to Physics II
 [Glowscript Folder](https://www.glowscript.org/#/user/ENT/folder/PHYS2212/)
   |  [Youtube Playlist](https://www.youtube.com/playlist?list=PLgGFty8KAGABaR9HVzXqJn7qmZ799FrGi)
@@ -46,3 +48,5 @@ Physics models, from PHYS 2211 and PHYS 2212 labs, using Glowscript.org VPython.
 6. "PHYS2212-Experiment4" - [View](https://www.glowscript.org/#/user/ENT/folder/PHYS2212/program/PHYS2212-Experiment4)
    - Lab Name: PHYS 2212 EXPERIMENT 4 - Magnetic Braking with Faraday
    - Lab Video: [Youtube](https://www.youtube.com/watch?v=24jUjj4NuG4&list=PLgGFty8KAGABaR9HVzXqJn7qmZ799FrGi&index=5)
+
+Copyright (c) 2023 Ethan Nguyen-Tu
