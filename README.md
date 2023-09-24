@@ -2,7 +2,7 @@
 Ethan Nguyen-Tu's physics models, from PHYS 2211 and PHYS 2212 labs, using Glowscript.org VPython.
 
 ## PHYS 2211: Introduction to Physics I
-[Glowscript.org Folder](https://www.glowscript.org/#/user/ENT/folder/PHYS2211/)
+[Glowscript Folder](https://www.glowscript.org/#/user/ENT/folder/PHYS2211/)
   |  [Youtube Playlist](https://www.youtube.com/playlist?list=PLgGFty8KAGAD56CchSrQhreEl6Wqca5I1)
 1. "NguyenTu-PHYS2211-Lab1" - [View](https://www.glowscript.org/#/user/ENT/folder/PHYS2211/program/NguyenTu-PHYS2211-Lab1)
    - Lab Name: Lab 1: Constant Velocity
